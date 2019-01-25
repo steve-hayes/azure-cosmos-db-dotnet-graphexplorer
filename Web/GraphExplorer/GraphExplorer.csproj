@@ -293,6 +293,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="tsconfig.json" />
+    <Content Include="wwwroot/**/*.*" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\graphsettings.json" />
