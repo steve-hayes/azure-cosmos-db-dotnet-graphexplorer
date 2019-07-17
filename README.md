@@ -1,4 +1,19 @@
-# A Guided Tour of Azure Cosmos DB Gremlin API#
+---
+page_type: sample
+description: "This sample application shows how to interact with Azure CosmosDB Gremlin (Graph) API and visualize the results."
+languages:
+- csharp
+- nodejs
+- javascript
+products:
+- azure
+- azure-cosmos-db
+- aspnet
+- dotnet
+---
+
+# A Guided Tour of Azure Cosmos DB Gremlin API
+
 This sample application shows how to interact with Azure CosmosDB Gremlin (Graph) API and visualize the results.  The query language used is [Gremlin](https://en.wikipedia.org/wiki/Gremlin_(programming_language)) which is a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) traversal language that uses vertices and edges as primary constructs.  This sample shows how to put your data into Cosmos DB through a console application using the Azure DocumentDB graph library as well as querying the data using the Gremlin language specification from a user interface.
 
 ## Prerequisites ##
